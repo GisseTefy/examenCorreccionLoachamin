@@ -61,8 +61,4 @@ public class Asignatura {
         return "Asignatura [codAsignatura=" + codAsignatura + ", nombreAsignatura=" + nombreAsignatura
                 + ", codCreditos=" + codCreditos + "]";
     }
-
-
-
-
 }

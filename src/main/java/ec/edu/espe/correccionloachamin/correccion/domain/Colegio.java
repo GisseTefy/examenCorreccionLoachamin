@@ -60,5 +60,4 @@ public class Colegio {
         return "Colegio [codColegio=" + codColegio + ", nombreColegio=" + nombreColegio + "]";
     }
 
-    
 }
