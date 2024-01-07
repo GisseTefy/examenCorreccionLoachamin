@@ -41,7 +41,3 @@ public class AlumnoService {
     }
 
 }
-
-// Implementar un método que permita crear un Alumno; validar que el colegio
-// enviado este
-// registrado y que la fecha de nacimiento sea menor a la fecha actual.
